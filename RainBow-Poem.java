@@ -10,5 +10,6 @@
 public class RainBowPoem {
   public static void main(String args[]) {
     System.out.println("rainbows :)");
+    System.out.println("Yellow");
   }
 }
